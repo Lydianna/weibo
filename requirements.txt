@@ -32,7 +32,7 @@ SecretStorage==2.3.1
 service-identity==18.1.0
 six==1.13.0
 stevedore==1.31.0
-Twisted==19.10.0
+Twisted==22.10.0
 virtualenv==16.7.9
 virtualenv-clone==0.5.3
 virtualenvwrapper==4.8.4
